@@ -1,0 +1,198 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{8}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Barocas}{B.}%
+     {Solon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nissenbaum}{N.}%
+     {Helen}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BSNH1}
+  \strng{fullhash}{BSNH1}
+  \field{labelyear}{2013}
+  \field{sortinit}{B}
+  \field{booktitle}{Privacy, Big Data, and the Public Good: Frameworks for
+  Engagement}
+  \field{pages}{44\bibrangedash 75}
+  \field{title}{Big data’s end run around anonymity and consent}
+  \field{month}{01}
+  \field{year}{2013}
+\endentry
+
+\entry{2}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Johnson}{J.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{JR1}
+  \strng{fullhash}{JR1}
+  \field{labelyear}{2010}
+  \field{sortinit}{J}
+  \field{title}{Scaling Facebook to 500 Million Users and Beyond}
+  \list{institution}{1}{%
+    {Facebook.com}%
+  }
+  \field{month}{07}
+  \field{year}{2010}
+\endentry
+
+\entry{1}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Layton}{L.}%
+     {Julia}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LJ1}
+  \strng{fullhash}{LJ1}
+  \field{labelyear}{2013}
+  \field{sortinit}{L}
+  \field{title}{Amazon Technology}
+  \list{institution}{1}{%
+    {Money.howstuffworks.com}%
+  }
+  \field{month}{03}
+  \field{year}{2013}
+\endentry
+
+\entry{7}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nissenbaum}{N.}%
+     {Helen}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NH1}
+  \strng{fullhash}{NH1}
+  \field{labelyear}{2004}
+  \field{sortinit}{N}
+  \field{title}{Privacy as Contextual Integrity}
+  \field{journaltitle}{Washington Law Review}
+  \field{year}{2004}
+\endentry
+
+\entry{9}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Preneel}{P.}%
+     {Bart}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PB1}
+  \strng{fullhash}{PB1}
+  \field{labelyear}{2015}
+  \field{sortinit}{P}
+  \field{title}{Big data and little privacy: there is no alternative?}
+  \verb{url}
+  \verb https://www.youtube.com/watch?v=uYk6yN9eNfc
+  \endverb
+  \field{year}{2015}
+\endentry
+
+\entry{5}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rachels}{R.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RJ1}
+  \strng{fullhash}{RJ1}
+  \field{labelyear}{1975}
+  \field{sortinit}{R}
+  \field{title}{Why Privacy is Important}
+  \field{journaltitle}{Philosophy and Public Affairs}
+  \field{year}{1975}
+\endentry
+
+\entry{6}{inbook}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Regan}{R.}%
+     {Priscilla~M.}{P.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RPM1}
+  \strng{fullhash}{RPM1}
+  \field{labelyear}{2015}
+  \field{sortinit}{R}
+  \field{booktitle}{Social Dimensions of Privacy: Interdisciplinary
+  Perspectives}
+  \field{title}{Privacy and the common good: revisited}
+  \field{year}{2015}
+\endentry
+
+\entry{4}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sotiri}{S.}%
+     {Elena}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SE1}
+  \strng{fullhash}{SE1}
+  \field{labelyear}{2017}
+  \field{sortinit}{S}
+  \field{title}{How To Prevent Google Tracking On Any Browser}
+  \list{institution}{1}{%
+    {pcsteps}%
+  }
+  \field{month}{08}
+  \field{year}{2017}
+\endentry
+
+\entry{3}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sullivan}{S.}%
+     {Danny}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SD1}
+  \strng{fullhash}{SD1}
+  \field{labelyear}{2015}
+  \field{sortinit}{S}
+  \field{title}{Google Still Doing At Least 1 Trillion Searches Per Year}
+  \list{institution}{1}{%
+    {Search Engine Land}%
+  }
+  \field{month}{01}
+  \field{year}{2015}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
